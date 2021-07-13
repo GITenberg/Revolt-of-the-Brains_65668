@@ -1,0 +1,36 @@
+_repo: Revolt-of-the-Brains_65668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Thames, C. H.
+    - Lesser, Milton
+    - Wilder, Stephen
+    - Chase, Adam
+    - Ridgway, Jason
+    - Granger, Darius John
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2021-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Cold War -- Fiction'
+- !lcsh 'Nuclear weapons -- Fiction'
+- GITenberg
+title: Revolt of the Brains
+url: http://www.gutenberg.org/ebooks/65668
